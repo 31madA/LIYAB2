@@ -1,0 +1,10 @@
+Scene 8: Map 58 (Imus Estate). Meet Aguinaldo. Take dialogue from the full script, but not all of them. 
+Scene 9: Map 60 (Malabon Tibunal). Trias and Messenger only. Katipuneros optional. Messenger relays the names of the executed martyrs. Player Character (PC) is transparent and permeable. Or utilize Map Scroll, but PC is still transparent.
+Scene 10: Battle of Dalahican. Map 61 (Dalahican). Ignore choices in the stripped script. Arrange battle. Optional, but recommended (by Martin), allow conversation with refugees. After Battle Processing, fadeout screen, then text showing Bonifacio's Letter. Still in the dark screen, show Trias' dialogue. Then transition to Scene 11.
+Scene 11: Map 59 (Town of Imus). Follow the stripped script. No inside of the church, all events happen outside. 
+Scene 12: Map 58 (Imus Estate). Follow the script as well.
+
+Note:
+Switches; 011 CH2 S1 Camp Settled, 012 CH2 S2 Sora House Arrived, 013 CH2 S3 War Council Done, 014 CH2 S4 El Polvorin Fought, 015 CH2 S5 Fork Chosen South, 016 CH2 S5 Road South Passed, 017 CH2 S5 Martial Law Heard, 018 CH2 S5 Cave Shelter Done, 019 CH2 S6 Checkpoint Cleared, 20 CH2 S6 Trias Talk Done, 021 CH2 S7 Tribunal Cleared, 022 CH2 S7 Morning News Heard, 023 CH2 Campfire Lit, 024 CH2 Sora Moved, 025 CH2 Bellies Full, 026 CH2 El Polvorin, 027 CH2 S1 Espaced the Guardia Civil, 028 Actors Present, 029 Activate, 030 Change Event, 031 Cutscene
+
+Variables; 0008 Campire Animation, 0009 Transition, 0010 Victory
